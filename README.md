@@ -6,7 +6,7 @@
     
   ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Tomiozzo&show_icons=true&theme=highcontrast)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luan-Tomiozzo&theme=highcontrast&border_radius=5&locale=pt-br&border=DDDDDD&stroke=00FCF3&fire=DD0000&currStreakNum=DDDDDD&sideNums=93C605&background=000000&currStreakLabel=DDDDDD&ring=DDB801)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Tomiozzo&layout=compact-layout&theme=highcontrast)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Tomiozzo&layout=compact&theme=highcontrast)
 </div>
     
 
