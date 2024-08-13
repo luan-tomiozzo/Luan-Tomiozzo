@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻Desenvolvedor Backend | Java
-🧑‍🎓Pós-graduação em Arquitetura de Software
-📍Ponta Porã - MS | Brasil
+👨‍💻Desenvolvedor Backend | Java  
+🧑‍🎓Pós-graduação em Arquitetura de Software  
+📍Ponta Porã - MS | Brasil  
 
 
 ## 🌐 Socials:
